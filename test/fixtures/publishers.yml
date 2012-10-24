@@ -8,12 +8,13 @@ one:
   email: MyString
   password: MyString
   phone: MyString
+  phone: MyString
   address: MyString
   city: MyString
   state: MyString
   zip: MyString
   country: MyString
-  advertiser_id: 1
+  publisher_id: MyString
 
 two:
   first_name: MyString
@@ -23,9 +24,10 @@ two:
   email: MyString
   password: MyString
   phone: MyString
+  phone: MyString
   address: MyString
   city: MyString
   state: MyString
   zip: MyString
   country: MyString
-  advertiser_id: 1
+  publisher_id: MyString

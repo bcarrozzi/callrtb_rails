@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  campaign_id: 1
+  category_name: MyString
+  category_id: 1
+  campaign_category: MyString
+  campaign_category_id: 1
+  campaign_name: MyString
+  campaign_hours: MyString
+  campaign_region: MyString
+  campaign_bid: 1
+  campaign_bid_position: 1
+  campaign_bid_estimate: 1
+  campaign_min_bid: 1
+  campaign_status: MyString
+
+two:
+  campaign_id: 1
+  category_name: MyString
+  category_id: 1
+  campaign_category: MyString
+  campaign_category_id: 1
+  campaign_name: MyString
+  campaign_hours: MyString
+  campaign_region: MyString
+  campaign_bid: 1
+  campaign_bid_position: 1
+  campaign_bid_estimate: 1
+  campaign_min_bid: 1
+  campaign_status: MyString
